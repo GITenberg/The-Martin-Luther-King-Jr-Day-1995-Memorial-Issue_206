@@ -1,5 +1,5 @@
 _repo: The-Martin-Luther-King-Jr-Day-1995-Memorial-Issue_206
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -26,6 +26,7 @@ subjects:
 - !lcsh 'United States -- History'
 - !lcc 'E151'
 - !lcsh 'Civil rights movements'
+- GITenberg
 tableOfContents: Sojourner Truth, the Libyan Sibyl / Harriet Beecher Stowe -- Reconstruction
   / Frederick Douglass -- An appeal to Congress for impartial suffrage / Frederick
   Douglass -- The Negro exodus / James B. Runnion -- My escape from slavery / Frederick
